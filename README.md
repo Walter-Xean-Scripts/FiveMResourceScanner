@@ -15,7 +15,7 @@ There shouldn't be any risks connected to this tool, since we by standard operat
 ### How to use
 1. Go to your server.cfg (resources.cfg/wherever you start your resources) and remove all your started/ensured resources. This is to start your server up without any running resources.
 2. Start your now empty server, and wait for it to ready up.
-3. Clone this repository to your resources folder, type `refresh` in the console and start the resource. (`ensure cipherdetector`)
+3. Clone this repository to your resources folder, type `refresh` in the console and start the resource. (`ensure FiveMResourceScanner`)
 4. Wait for the script to finish, it'll tell you when it's done. If you have a lot of scripts it might take a while and spam your console a bit.
 5. Check the output.txt file in the resource folder, and read through the results.
 
