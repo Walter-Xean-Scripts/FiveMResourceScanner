@@ -28,4 +28,4 @@ A good rule of thumb is to remove any encrypted code from your resources, there'
 The current detection isn't 100% accurate, and might give you some false positives. Especially if it's not outputting any decoded strings, then it *could* just be the detection not working properly. If you're unsure, please do ask someone that has experience to verify that it's not malicious. I can't make any promises, but maybe we can help you over at the WXS Discord. And if not, another member there might be able to help you out.
 
 ### Discord/Support
-I won't promise that I'll do support for anything related to this resource, I like to help out where I can, but I'm also pretty busy most of the time with other projects. But it could be worth a shot to head over to (Our Discord)[https://discord.com/invite/tpJE2854th] and ask for help there.
+I won't promise that I'll do support for anything related to this resource, I like to help out where I can, but I'm also pretty busy most of the time with other projects. But it could be worth a shot to head over to [Our Discord](https://discord.com/invite/tpJE2854th) and ask for help there.
